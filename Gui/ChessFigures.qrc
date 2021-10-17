@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ChessFigures.qrc</file>
+        <file>queen_black.png</file>
+        <file>king_black.png</file>
+        <file>bishop_black.png</file>
+        <file>knight_black.png</file>
+        <file>Pawn_black.png</file>
+        <file>Tower_black.png</file>
+    </qresource>
+</RCC>
